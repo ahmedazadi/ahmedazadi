@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedazadi
 - 👀 I’m interested in Programming in general and Front End in particular
-- 🌱 I’m currently learning DotNet and Node js
+- 🌱 I’m currently learning BackEnd with Node js
 - 📫 How to reach me [my E-mail](mailto:ahmedazad750@gmail.com)
 
 
