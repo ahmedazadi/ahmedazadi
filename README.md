@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedazadi
-- 👀 I’m interested in Programming in general and Front End in particular
-- 🌱 I’m currently learning BackEnd with Node js
-- 📫 How to reach me [my E-mail](mailto:ahmedazad750@gmail.com)
+- 👀 I’m interested in Programming and Coputer Science
+- 🌱 I currently work mainly with React and React-Native
+- 📫 How to reach me [my E-mail](mailto:ahmedazad100@outlook.com)
 
 
 <!---
